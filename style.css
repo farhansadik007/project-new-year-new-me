@@ -1,0 +1,370 @@
+body {
+    background: url(images/banner/banner3.png);
+    background-repeat: no-repeat;
+    background-size: 1700px;
+}
+
+/* Header */
+.banner-text {
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 875px;
+    top: 216px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+
+    color: #FFFFFF;
+
+}
+
+.text {
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    left: 905px;
+    top: 498px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    color: #FFFFFF;
+}
+
+.btn {
+    position: absolute;
+    width: 109px;
+    height: 23px;
+    left: 1236px;
+    top: 599px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+
+    color: #005FAC;
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 1240px;
+    top: 630px;
+    border: none;
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+
+/* main */
+
+/* My failures of previous year */
+.person {
+    position: absolute;
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+}
+
+.banner-text-2 {
+    position: absolute;
+    width: 288px;
+    height: 94px;
+    left: 962px;
+    top: 1138px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: #151414;
+
+}
+
+.text-2 {
+    position: absolute;
+    width: 416px;
+    height: 104px;
+    left: 962px;
+    top: 1266px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+
+}
+
+.tick img {
+    display: flex;
+    position: relative;
+    width: 20px;
+    height: 20px;
+    left: 962px;
+    top: 1417px;
+
+    margin-bottom: 12px;
+}
+
+.point {
+    position: absolute;
+    width: 315px;
+    height: 26px;
+    left: 996px;
+    top: 1414px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 33px;
+
+    color: #444343;
+}
+
+/* My Plans */
+.banner-text-3 {
+    position: absolute;
+    width: 179px;
+    height: 47px;
+    left: 765px;
+    top: 1792px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+    text-align: center;
+
+    color: #151414;
+
+}
+
+.skills {
+    display: flex;
+    position: absolute;
+    width: 1141px;
+    height: 202px;
+    left: 230px;
+    top: 1990px;
+}
+
+.skill img {
+    margin: 0 100px;
+}
+
+h3 {
+    font-family: 'Work Sans';
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 25px;
+    text-align: center;
+    white-space: nowrap;
+
+    color: #151414;
+
+}
+
+.skill>p {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 10px;
+    text-align: center;
+    white-space: nowrap;
+    color: #737272;
+}
+
+.grad {
+    position: relative;
+    left: 250px;
+    top: 2300px;
+    width: 1140px;
+    height: 300px;
+    background-image: url(images/watch.png), url(images/gradient1.png);
+    background-blend-mode: overlay;
+}
+
+.btn-last {
+    position: absolute;
+    width: 88px;
+    height: 23px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+
+    color: #005FAC;
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    border: none;
+    top: 177px;
+    left: 64px;
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+
+.grad h1 {
+    position: absolute;
+    width: 459px;
+    height: 94px;
+    left: 64px;
+    top: 22px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: #FFFFFF;
+
+}
+
+/* Footer */
+footer {
+    display: flex;
+    position: absolute;
+    width: 1700px;
+    height: 600px;
+    left: 0px;
+    top: 3000px;
+    background: #151414;
+}
+
+.foot-text {
+    padding-left: 230px;
+    padding-top: 130px;
+}
+
+.foot-text h1 {
+    position: absolute;
+    width: 148px;
+    height: 53px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+
+    color: #F8F8F8;
+}
+
+.end-words {
+    position: absolute;
+    width: 485px;
+    height: 78px;
+    top: 210px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+
+.small {
+    position: relative;
+    width: 184px;
+    height: 26px;
+    left: 0px;
+    top: 180px;
+    white-space: nowrap;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+
+.social {
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+    width: 175px;
+    height: 46px;
+    left: 230px;
+    top: 430px;
+}
+
+.subscribe {
+    position: absolute;
+    width: 325px;
+    height: 204px;
+    left: 1046px;
+    top: 180px;
+}
+
+.subscribe h1 {
+
+    position: absolute;
+    width: 123px;
+    height: 29px;
+    left: 0px;
+    top: -25px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+
+}
+
+.subscribe input {
+    border-radius: 8px;
+    position: absolute;
+    width: 250px;
+    height: 64px;
+    top: 50px;
+    text-align: left;
+    padding-left: 10px;
+    font-family: 'Work Sans';
+    background-color: #151414;
+    border: 1px solid #FFFFFF;
+}
+
+.subscribe button {
+    position: absolute;
+    width: 170.11px;
+    height: 64px;
+    left: 0px;
+    top: 150px;
+    width: 170px;
+    height: 64px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+    background: #005FAC;
+border-radius: 8px;
+}
